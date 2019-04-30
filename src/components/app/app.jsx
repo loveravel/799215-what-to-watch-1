@@ -29,8 +29,7 @@ export const App = () => {
         <div className="movie-card__wrap">
           <div className="movie-card__info">
             <div className="movie-card__poster">
-              <img src="img/the-grand-budapest-hotel-poster.jpg" alt="The Grand Budapest Hotel poster" width="218"
-                   height="327"/>
+              <img src="img/the-grand-budapest-hotel-poster.jpg" alt="The Grand Budapest Hotel poster" width="218" height="327"/>
             </div>
 
             <div className="movie-card__desc">
@@ -100,8 +99,7 @@ export const App = () => {
             <article className="small-movie-card catalog__movies-card">
               <button className="small-movie-card__play-btn" type="button">Play</button>
               <div className="small-movie-card__image">
-                <img src="img/fantastic-beasts-the-crimes-of-grindelwald.jpg"
-                     alt="Fantastic Beasts: The Crimes of Grindelwald" width="280" height="175"/>
+                <img src="img/fantastic-beasts-the-crimes-of-grindelwald.jpg" alt="Fantastic Beasts: The Crimes of Grindelwald" width="280" height="175"/>
               </div>
               <h3 className="small-movie-card__title">
                 <a className="small-movie-card__link" href="movie-page.html">Fantastic Beasts: The Crimes of
@@ -143,8 +141,7 @@ export const App = () => {
             <article className="small-movie-card catalog__movies-card">
               <button className="small-movie-card__play-btn" type="button">Play</button>
               <div className="small-movie-card__image">
-                <img src="img/we-need-to-talk-about-kevin.jpg" alt="We need to talk about Kevin" width="280"
-                     height="175"/>
+                <img src="img/we-need-to-talk-about-kevin.jpg" alt="We need to talk about Kevin" width="280" height="175"/>
               </div>
               <h3 className="small-movie-card__title">
                 <a className="small-movie-card__link" href="movie-page.html">We need to talk about Kevin</a>
